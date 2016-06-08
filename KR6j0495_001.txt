@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:40.574994
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:19
 #+TITLE: 佛說穰麌梨童女經
 #+PROPERTY: CBETA_ID T21n1264b
 #+PROPERTY: ID KR6j0495
